@@ -1,0 +1,14 @@
+what is class?
+* tempeelate or blueprint
+* it will have variables/ properties and methods
+
+customer
+event bookin
+select bookin
+
+Serialization:
+XmlSerialization
+JsonSerialization
+SoapSerialization
+
+// WHat is serialization : 
